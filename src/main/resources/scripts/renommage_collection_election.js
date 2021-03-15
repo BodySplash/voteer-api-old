@@ -1,0 +1,1 @@
+db.election.renameCollection("sondage")
